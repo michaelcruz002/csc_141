@@ -1,3 +1,0 @@
-print ("hello")
-
-# GET PSYCHED
